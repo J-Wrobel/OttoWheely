@@ -1,2 +1,2 @@
 # OttoWheely
-My take on DIT educational mobile robot Otto
+My take on DIY educational mobile robot Otto
